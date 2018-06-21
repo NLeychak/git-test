@@ -2,5 +2,5 @@
 
 int main() {
 	std::cout << "Lol" << std::endl;
-	#don't use comments
+	#use comment
 }
