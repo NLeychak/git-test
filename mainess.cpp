@@ -5,4 +5,5 @@ int main() {
 	#use comment
 	#use comment2
 	#use commentb2
+	#use commentb3
 }
