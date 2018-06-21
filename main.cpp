@@ -8,4 +8,5 @@ int main() {
 	#TOB3
 	
 	#From now here you can see full trash
+	#New!
 }
