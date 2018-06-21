@@ -3,4 +3,5 @@
 int main() {
 	std::cout << "Lol" << std::endl;
 	#use comment
+	#use comment2
 }
