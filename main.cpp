@@ -9,4 +9,5 @@ int main() {
 	
 	#From now here you can see full trash
 	#New!
+	#123
 }
